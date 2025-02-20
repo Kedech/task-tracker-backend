@@ -1,0 +1,67 @@
+[
+  {
+    "Id": "LITHEADER",
+    "EN": "TASK TRACKER APPLICATION",
+    "ES": "APLICACIÓN DE SEGUIMIENTO DE TAREAS"
+  },
+  {
+    "Id": "LITTASKLISTTITLE",
+    "EN": "Task list",
+    "ES": "Lista de tareas"
+  },
+  {
+    "Id": "LITBUTTONADDTASK",
+    "EN": "add task",
+    "ES": "agregar tarea"
+  },
+  {
+    "Id": "LITTITLEADDTASK",
+    "EN": "Add new task",
+    "ES": "Agregar nueva tarea"
+  },
+  {
+    "Id": "LITBUTTONSAVE",
+    "EN": "save",
+    "ES": "guardar"
+  },
+  {
+    "Id": "LITBUTTONCANCEL",
+    "EN": "cancel",
+    "ES": "cancelar"
+  },
+  {
+    "Id": "LITTITLEEDITTASK",
+    "EN": "Edit task",
+    "ES": "Editar tarea"
+  },
+  {
+    "Id": "LITCONTROLTITLE",
+    "EN": "Title",
+    "ES": "Titulo"
+  },
+  {
+    "Id": "LITCONTROLDESCRIPTION",
+    "EN": "Description",
+    "ES": "Descripción"
+  },
+  {
+    "Id": "LITCONTROLSTATE",
+    "EN": "State",
+    "ES": "Estado"
+  },
+  {
+    "Id": "LITERRORREQUIRED",
+    "EN": "* is required",
+    "ES": "* es requerido"
+  },
+  {
+    "Id": "LITERRORMINLENGTH",
+    "EN": "* must be at least % characters long",
+    "ES": "* debe tener al menos % caracteres"
+  },
+  {
+    "Id": "LITERRORNOWHITESPACE",
+    "EN": "* cannot contain only white spaces",
+    "ES": "* no puede contener solo espacios en blanco"
+  }  
+]
